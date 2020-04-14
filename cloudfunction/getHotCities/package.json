@@ -1,6 +1,6 @@
 {
   "name": "getHotCities",
-  "version": "1.0.0",
+  "version": "1.7.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "wx-server-sdk": "latest"
+    "wx-server-sdk": "^1.8.3"
   }
 }
